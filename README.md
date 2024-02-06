@@ -1,6 +1,6 @@
 # Line-Follower-Obstacle-Avoider
 
-An Arduino Uno Based Line Follower with built-in Obstacle avoider Robot. Proteus PCB and Code is included in it.
+An Arduino Uno Based Line Follower with built-in Obstacle avoider Robot. Proteus PCB and Arduino IDE Code is included in it.
 
 Created by:
 
