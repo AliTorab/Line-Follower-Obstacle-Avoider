@@ -1,6 +1,6 @@
 # Line-Follower-Obstacle-Avoider
 
-An Arduino Uno Based Line Follower with built-in Obstacle avoider Robot. It is like a Tesla Car which follows the line or path.
+An Arduino Uno Based Line Follower with built-in Obstacle avoider Robot. Proteus PCB and Code is included in it.
 
 Created by:
 
